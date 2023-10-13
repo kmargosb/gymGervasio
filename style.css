@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz@9..40&display=swap');
+
+body{
+    font-family: 'DM Sans', sans-serif;
+}
+.tableGym, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+td{
+    padding-left: 5px;
+}
+
+.colorGrey{
+    background-color: rgb(240, 240, 240);
+}
